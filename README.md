@@ -1,4 +1,4 @@
-Hackathon eğitim alanında yaptığım yapay zeka projesi. Öğrencilerin  Kendi seviyesine Uygun kaynağı aramak için dakikalarca video izlemesine gerek yok. İstediğiniz videonun linkini verdiğiniz anda sizin için kolaydan zora doğru video da geçen kaynakların sıralamasını yapıyor.  
+Hackathon eğitim alanında yaptığım yapay zeka projesi. Öğrencilerin  Kendi seviyesine Uygun kaynağı aramak için dakikalarca video izlemesine gerek yok. Türkçe altyazıya sahip istediğiniz videonun linkini verdiğiniz anda sizin için kolaydan zora doğru video da geçen kaynakların sıralamasını yapıyor.  
 
 Ayrıca öğrenciler, belli bir konuda kişisel plan oluşturmak isterlerse,'Çalışma Planı Oluştur' kısmından Kişiye özel bir çok seçenekle haftalık aylık gibi planlar oluşturabiliyor. İsterseniz planınızı güncelleyebilir veya indirebilirsiniz
 
