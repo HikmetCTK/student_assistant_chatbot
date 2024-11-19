@@ -11,16 +11,15 @@ Ayrıca öğrenciler, belli bir konuda kişisel plan oluşturmak isterlerse,'Ça
 
 Kullandığım kütüphaneler:
 
--google.generativeai
+-google.generativeai(gemini-1.5-flash)
 
--youtube_transcript_api
+-youtube_transcript_api(Youtube videosundaki altyazılar)
 
--youtubesearchpython
+-youtubesearchpython(youtube videolarını listeler)
 
--streamlit
+-streamlit(arayüz)
 
 *** Önemli noktalar ***
 
-Her 2 ajan için de Gemini system instruction kısmında 'Few-shot learning' tekniğini kullandım. Modelin örnek çıktı sağlaması ve sınırlarını bilmesinde sıkça kullanılan bir teknik
-
-
+-Her 2 ajan için de Gemini system instruction kısmında 'Few-shot learning' tekniğini kullandım. Modelin örnek çıktı sağlaması ve sınırlarını bilmesinde sıkça kullanılan bir teknik
+ 
