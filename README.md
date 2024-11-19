@@ -20,6 +20,7 @@ Kullandığım kütüphaneler:
 -streamlit(arayüz)==1.24.0
 
 -json==2.0.9
+
 *** Önemli noktalar ***
 
 -Her 2 ajan için de Gemini system instruction kısmında 'Few-shot learning' tekniğini kullandım. Modelin örnek çıktı sağlaması ve sınırlarını bilmesinde sıkça kullanılan bir teknik
