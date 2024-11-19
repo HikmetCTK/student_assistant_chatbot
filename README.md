@@ -11,15 +11,19 @@ Ayrıca öğrenciler, belli bir konuda kişisel plan oluşturmak isterlerse,'Ça
 
 Kullandığım kütüphaneler:
 
--google.generativeai(gemini-1.5-flash)
+-google.generativeai(gemini-1.5-flash)==0.8.3
 
 -youtube_transcript_api(Youtube videosundaki altyazılar)
 
 -youtubesearchpython(youtube videolarını listeler)
 
--streamlit(arayüz)
+-streamlit(arayüz)==1.24.0
 
+-json==2.0.9
 *** Önemli noktalar ***
 
 -Her 2 ajan için de Gemini system instruction kısmında 'Few-shot learning' tekniğini kullandım. Modelin örnek çıktı sağlaması ve sınırlarını bilmesinde sıkça kullanılan bir teknik
  
+-Kullanmak için:
+
+Gerekli kütüphaneleri indirdikten sonra size özel 'Gemini api key' 'inizi  '.env' dosyasına yazıp  terminali açıp  'streamlit run helper.py' yazarak çalıştırıp kullanabilirsiniz.
