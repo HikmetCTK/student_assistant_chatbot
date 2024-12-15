@@ -2,7 +2,7 @@ Hackathon eğitim alanında yaptığım yapay zeka projesi. Öğrencilerin  Kend
 
 Ayrıca öğrenciler, belli bir konuda kişisel plan oluşturmak isterlerse,'Çalışma Planı Oluştur' kısmından Kişiye özel bir çok seçenekle haftalık aylık gibi planlar oluşturabiliyor. İsterseniz planınızı güncelleyebilir veya indirebilirsiniz
 
-Çalışma planı oluşturan ajanın oluşturduğu planda her konunun yanında konuyla alakalı  videonun linki öneriliyor . 
+Önerilen  her konunun yanında konuyla alakalı  videonun linki öneriliyor . 
 
 
 ![Screenshot 2024-11-05 223731](https://github.com/user-attachments/assets/016fe2bc-93c0-4985-86e2-74ec846cf7dc)
