@@ -10,7 +10,7 @@ import re
 
 
 
-genai.configure(api_key=secrets.API_KEY)
+genai.configure(api_key=API_KEY)
 
 generation_config={
     "temperature":0.2,
