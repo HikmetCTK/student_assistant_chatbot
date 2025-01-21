@@ -1,5 +1,3 @@
-﻿import os
-from dotenv import load_dotenv
 import google.generativeai as genai
 import json
 from youtube_transcript_api import YouTubeTranscriptApi
