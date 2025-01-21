@@ -12,7 +12,7 @@ if not gemini_api_key:
     raise ValueError("GEMINI_API_KEY and GEMINI_API_SECRET environment variables must be set.")
 
 
-genai.configure(api_key=API_KEY)
+genai.configure(api_key=secrets.API_KEY)
 
 generation_config={
     "temperature":0.2,
