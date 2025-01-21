@@ -8,7 +8,7 @@ from youtubesearchpython import VideosSearch
 import re
 
 
-gemini_api_key = os.getenv("GEMINI_API_KEY")
+
 if not gemini_api_key:
 
     raise ValueError("GEMINI_API_KEY and GEMINI_API_SECRET environment variables must be set.")
