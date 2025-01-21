@@ -1,4 +1,4 @@
-streamlit==1.32.0
-google.generative.ai
+streamlit
+google-generativeai
 youtube-transcript-api
 youtubesearchpython
