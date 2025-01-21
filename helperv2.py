@@ -6,7 +6,7 @@ from youtube_transcript_api import YouTubeTranscriptApi
 import streamlit as st
 from youtubesearchpython import VideosSearch
 import re
-load_dotenv()
+
 
 gemini_api_key = os.getenv("GEMINI_API_KEY")
 if not gemini_api_key:
@@ -14,7 +14,7 @@ if not gemini_api_key:
     raise ValueError("GEMINI_API_KEY and GEMINI_API_SECRET environment variables must be set.")
 
 
-genai.configure(api_key=gemini_api_key)
+genai.configure(api_key=API_KEY)
 
 generation_config={
     "temperature":0.2,
