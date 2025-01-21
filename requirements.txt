@@ -1,5 +1,4 @@
 streamlit
 google-generative-ai
-youtube_transcript_api
+youtube-transcript-api
 youtubesearchpython
-re
