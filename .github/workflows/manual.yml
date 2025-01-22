@@ -21,3 +21,4 @@ jobs:
           curl -H "Authorization: Bearer $API_KEY" https://api.example.com/resource
         env:
           API_KEY: ${{ secrets.API_KEY }}
+        run: streamlit run helperv2.py
