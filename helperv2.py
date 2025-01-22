@@ -9,11 +9,7 @@ import re
 
 import os
 
-# Access the API key from the environment
-api_key = os.getenv('API_KEY')
-
-
-genai.configure(api_key=api_key)
+api_key = st.secrets["api_key"]
 
 generation_config={
     "temperature":0.2,
